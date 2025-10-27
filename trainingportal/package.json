@@ -44,7 +44,7 @@
     "passport-slack-oauth2": "^1.2.0",
     "sqlite3": "^5.1.2",
     "uid-safe": "^2.1.4",
-    "validator": "^13.6.0"
+    "validator": "^13.15.20"
   },
   "devDependencies": {
     "jest": "^29.7.0",
